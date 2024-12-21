@@ -1,0 +1,6 @@
+[submodule "FE-CrytoAcademyKAIA"]
+	path = FE-CrytoAcademyKAIA
+	url = https://github.com/WeTranscend-labs/FE-CrytoAcademyKAIA.git
+[submodule "SC-CrytoAcademyKAIA-"]
+	path = SC-CrytoAcademyKAIA-
+	url = https://github.com/WeTranscend-labs/SC-CrytoAcademyKAIA-.git
