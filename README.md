@@ -42,3 +42,8 @@
 - Become part of a global community of blockchain enthusiasts.
 
 ## Demo
+
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/n0fYXCMKW6Y" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
